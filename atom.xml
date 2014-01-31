@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Panfried Software Discussions]]></title>
+  <link href="http://rmacdonaldsmith.github.io/atom.xml" rel="self"/>
+  <link href="http://rmacdonaldsmith.github.io/"/>
+  <updated>2013-05-09T08:18:47-05:00</updated>
+  <id>http://rmacdonaldsmith.github.io/</id>
+  <author>
+    <name><![CDATA[Robert Macdonald Smith]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[I Have Moved - My New Blog]]></title>
+    <link href="http://rmacdonaldsmith.github.io/blog/2013/05/09/i-have-moved-my-new-blog/"/>
+    <updated>2013-05-09T06:31:00-05:00</updated>
+    <id>http://rmacdonaldsmith.github.io/blog/2013/05/09/i-have-moved-my-new-blog</id>
+    <content type="html"><![CDATA[<p>For sometime I have been meaning to make a move to another blog host, or even write my own blog site. Well, atlast, I have done something about it. I decided to use <a href="http://octopress.org">Octopress</a> as my blog &#8216;engine&#8217; and GitHub Pages as the host.</p>
+
+<p>The thought of writing my own blog from the ground up sounded kind of appealing, but that would take some time and effort and I would probably not learn a huge amount in the process. I would rather dedicate that time to learning something that really interests me, like writing my own Routing Slip implementation.</p>
+
+<p>So, I thought <a href="http://octopress.org">Octopress</a> / <a href="http://pages.github.com">GitHub</a> Pages was a good half-way house; I have more control over the site than most traditional blog sites, I am using GitHub every day to write my posts, I feel like a hacker but I am not having to write and maintain all the low level stuff had I written the site from scratch.</p>
+
+<p>This blog will also give me the chance to &#8220;start over&#8221; - I want to blog more often. Hopefully this will give me some inspiration and I can make smaller, more frequent additions.</p>
+
+<p>My next task is to migrate the content from TypePad to here.</p>
+]]></content>
+  </entry>
+  
+</feed>
